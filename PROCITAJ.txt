@@ -1,0 +1,27 @@
+ALU PLAST CAPLJINA - web stranica za vlastiti hosting
+=====================================================
+
+Sadrzaj mape:
+  index.html   - cijela stranica (sve podstranice, HR i EN verzija)
+  img/         - sve fotografije i logotipi
+    img/r/     - fotografije referenci
+    img/logo/  - logotip ALU Plast i logotipi partnera
+
+Objava na hosting:
+  1. Prenesite SADRZAJ ove mape (index.html i mapu img) u korijensku
+     mapu weba na hostingu (najcesce public_html ili www).
+  2. Struktura mora ostati ista: index.html u korijenu, slike u img/.
+  3. Gotovo. Stranica ne treba bazu, PHP ni posebne postavke.
+
+Otvaranje bez servera:
+  Dvaput kliknite index.html i stranica radi direktno iz mape.
+
+Vanjske stvari (rade samo uz internet, nisu nuzne):
+  - Font Plus Jakarta Sans (Google Fonts). Bez interneta se koristi
+    sistemski font, raspored ostaje isti.
+  - Link na Google Maps lokaciju i na PDF brosuru (valm.ba).
+
+Kontakt obrazac:
+  Obrazac otvara program za e-postu posjetitelja s pripremljenim
+  upitom na info@aluplast.co (radi bez servera). Za slanje izravno
+  sa stranice treba dodati PHP skriptu ili uslugu poput Formspree.
